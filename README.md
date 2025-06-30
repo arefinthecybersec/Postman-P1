@@ -2,7 +2,7 @@ This is an **API testing** project using **Postman** to test user management fea
 
 1. Use Feature Includes: User Login, User Signup, Search User, User List, Update User, Delete User.
   
-2. Covers All Methods: POST, GET, PUT, PATCH, DELETE Requests For Full User Management.
+2. Covers All Methods: POST, GET, PUT, PATCH, DELETE Requests for positive and negative test cases and Full User Management.
 
 ![image](https://github.com/user-attachments/assets/f4310bd6-f66f-465a-9af1-388653623f4b)
 
