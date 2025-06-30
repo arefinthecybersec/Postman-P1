@@ -1,4 +1,4 @@
-# This is an **API testing** project using **Postman** to test user management features like **login, signup, search, update, and delete**, with the help of collection variables.
+#This is an **API testing** project using **Postman** to test user management features like **login, signup, search, update, and delete**, with the help of collection variables.
 
 1. Use Feature Includes: User Login, User Signup, Search User, User List, Update User, Delete User.
   
